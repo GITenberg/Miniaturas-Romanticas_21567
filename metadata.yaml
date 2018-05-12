@@ -1,0 +1,44 @@
+_repo: Miniaturas-Romanticas_21567
+_version: 0.1.0
+alternative_title: Miniaturas Românticas
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lima, S. de Magalhães (Sebastião de Magalhães)
+    aliases:
+    - De Magalhães Lima, S. (Sebastião)
+    - Lima, Sebastiao de Magalhaes
+    - Lima, Sebastião de Magalhães
+    - Magalhães Lima, S. de (Sebastião)
+    - Lima, Magalhães
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '9922'
+    url: http://www.gutenberg.org/2009/agents/9922
+    wikipedia: http://pt.wikipedia.org/wiki/Sebasti%C3%A3o_de_Magalh%C3%A3es_Lima
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2007-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21567'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: "Produced by Pedro Saborano. Para comentários à transcrição\r\nvisite\
+  \ http://pt-scriba.blogspot.com (produzido a partir\r\ndas imagens de obras em domínio\
+  \ público, disponibilizadas\r\npela BibRIA - Biblioteca digital dos municípios da\
+  \ Ria)"
+publication_note: "Coimbra:\r\nImprensa da Universidade\r\n1871"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PQ'
+tableOfContents: Martyrio d'um Anjo -- Amour et Champagne -- Um drama intimo -- A
+  Fatalidade e o destino -- Cambiantes da comedia humana -- Estrellas e Nuvens --
+  Á Beira-Mar -- Um dia de noivado.
+title: Miniaturas Romanticas
+url: http://www.gutenberg.org/ebooks/21567
