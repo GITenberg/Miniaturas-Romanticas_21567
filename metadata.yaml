@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9922
     wikipedia: http://pt.wikipedia.org/wiki/Sebasti%C3%A3o_de_Magalh%C3%A3es_Lima
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21567#Miniaturas-Romanticas
 gutenberg_bookshelf: PT Contos
 gutenberg_issued: '2007-05-22'
 gutenberg_type: Text
